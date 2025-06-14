@@ -1,0 +1,15 @@
+# 代理补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,taphip.com
+DOMAIN-SUFFIX,996882.xyz
+DOMAIN-SUFFIX,d1d1.de
+DOMAIN-SUFFIX,ddmin.de
+
+# 域名关键字匹配
+# DOMAIN-KEYWORD,1e100
+
+# 国外DNS
+# DOMAIN-SUFFIX,hk-hkg.doh.sb
+# IP-CIDR,8.8.8.8/32,no-resolve
