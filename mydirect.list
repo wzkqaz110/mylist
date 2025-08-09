@@ -1,13 +1,13 @@
 # 代理补充列表
 
 # 域名后缀匹配
-+.oracle.com
-+.996882.xyz
-+.d1d1.de
-+.ddmin.de
-+.euserv.com
-+.staryuki.me
-+.v50.su
-+.zn.al
-+.shrekmedia.org
-+.taphip.ru
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,996882.xyz
+DOMAIN-SUFFIX,d1d1.de
+DOMAIN-SUFFIX,ddmin.de
+DOMAIN-SUFFIX,euserv.com
+DOMAIN-SUFFIX,staryuki.me
+DOMAIN-SUFFIX,v50.su
+DOMAIN-SUFFIX,zn.al
+DOMAIN-SUFFIX,shrekmedia.org
+DOMAIN-SUFFIX,taphip.ru
