@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,zn.al
 DOMAIN-SUFFIX,shrekmedia.org
 DOMAIN-SUFFIX,taphip.ru
 DOMAIN-SUFFIX,netcup.com
+IP-CIDR,202.106.57.33/32,no-resolve
