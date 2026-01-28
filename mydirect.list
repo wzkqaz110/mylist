@@ -17,6 +17,6 @@ DOMAIN-SUFFIX,customercontrolpanel.de
 DOMAIN-SUFFIX,vemby01.de
 DOMAIN-SUFFIX,mebimmer.de
 DOMAIN-SUFFIX,xyzip.de
-DOMAIN-SUFFIX,helloblock.net
+
 IP-CIDR,38.175.217.53/32,no-resolve
 IP-CIDR,103.135.101.110/32,no-resolve
