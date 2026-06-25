@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,lay.pp.ua
 DOMAIN-SUFFIX,emby.vin
 DOMAIN-SUFFIX,datatft.com
 DOMAIN-SUFFIX,fxtbjmqslr.cn
+DOMAIN-SUFFIX,123clouddisk.com
 
 IP-CIDR,38.175.217.53/32,no-resolve
 IP-CIDR,103.135.101.110/32,no-resolve
